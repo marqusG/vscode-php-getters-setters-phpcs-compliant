@@ -1,9 +1,9 @@
 {
   "name": "vscode-php-getters-setters-phpcs-compliant",
-  "displayName": "PHP Getters & Setters (CV fork)",
-  "description": "Create PHP getters and setters from class properties",
+  "displayName": "PHP Getters & Setters (MG fork)",
+  "description": "Create PHP getters and setters from class properties using phpcs conventions",
   "version": "1.6.2",
-  "publisher": "cvergne",
+  "publisher": "Marco Gasi",
   "author": "Roberto Segura <roberto@phproberto.com>",
   "contributors": [
     "Christophe VERGNE <dev@christophevergne.fr>",
