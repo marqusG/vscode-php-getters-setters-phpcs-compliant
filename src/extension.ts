@@ -96,10 +96,6 @@ class Resolver {
                 continue;
             hasProperties = true;
         }
-        if (!hasProperties) {
-            this.showErrorMessage('No properties found in this file.');
-            return;
-        }
     }
 
     insertGetter() {
