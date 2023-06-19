@@ -12,10 +12,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cvergne/vscode-php-getters-setters"
+    "url": "https://github.com/marqusG/vscode-php-getters-setters-phpcs-compliant"
   },
   "bugs": {
-    "url": "https://github.com/cvergne/vscode-php-getters-setters/issues"
+    "url": "https://github.com/marqusG/vscode-php-getters-setters-phpcs-compliant/issues"
   },
   "icon": "images/icon.png",
   "engines": {

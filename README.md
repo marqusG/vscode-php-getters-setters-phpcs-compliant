@@ -6,9 +6,9 @@
 
 _This repository is a fork of the Christopher Vergne extension [ cvergne/vscode-php-getters-setters](https://github.com/cvergne/vscode-php-getters-setters) which is a fork of the original extension [phproberto/vscode-php-getters-setters](https://github.com/phproberto/vscode-php-getters-setters)_  
 
-_I'm new to VS Code extensions development. I'm developing a WordPress plugin but when it come the moment to use php-getter-setter extension I realized it didn't work: I had the original verzion by phproberto. So I browsed the extension repo and I g¡have found the CV fork. This one worked but it didn't use phpcs conventions which we use developing WordPress plugins and themes. So I wanted to fix this and I thought it could be useful for other WordPress developers._
+_I'm new to VS Code extensions development. I'm developing a WordPress plugin but when it come the moment to use php-getter-setter extension I realized that it didn't work: I had the original verzion by Roberto. So I browsed the extension repo and I have found the CV fork. This one worked but it didn't use phpcs conventions which we use developing WordPress plugins and themes. So I wanted to fix this and I thought it could be useful for other WordPress developers._
 
-_At first, I just wanted to create a pull request and merge my change with the main brnch but once I have cloned the repo using Github Desktop I see it gave me several errors: .vscode was not found, exports method was not recognized and so on. I tried to install missing dependencies but I have not been able to solve those errors. So I just created a new extension using `yo code` command and then pasted the code from the forked repo. I’m sorry but this is the best I could do in the little time I had available_
+_At first, I just wanted to create a pull request and merge my change with the main brnch but once I have cloned the repo but after two weeks without a message from the Christophe, I thought the repo was no more mantained so I decided tu publish my own fork in VS Code extension repo_
 
 _I leave here the rest of the readme file as it is. See CHANGELOG.md to learn more about new changes_
 
